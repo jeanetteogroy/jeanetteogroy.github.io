@@ -33,7 +33,7 @@ export default function Info() {
 
     return (
         <div style={{display: 'flex', flexDirection: 'column' }}>
-            <Typography variant="h6">Gaveønsker fra Tilbord</Typography>
+            <Typography variant="h6">Gaveønsker fra Tilbords</Typography>
             <Typography> <Link href="https://www.tilbords.no/bryllup/vis-liste/105283">Link her</Link></Typography>
             <div style={{display: 'flex', flexDirection: 'row', gap: '2em'}}>
 
