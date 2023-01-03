@@ -93,7 +93,7 @@ export default function Info() {
                 </div>
 
                 <div className="flex-column">
-                    <p>Fra kirken vil det gå leid buss til festlokalet, den vil forlate kirken klokken 15:30. </p>
+                    <p>Fra kirken vil gjestene fraktet med buss til festlokalet, den vil forlate kirken klokken 15:30. </p>
                 </div>
             </div>
 
