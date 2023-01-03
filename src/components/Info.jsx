@@ -85,7 +85,7 @@ export default function Info() {
             </div>
 
 
-            <div className="main-column">
+            <div className="main-column-3">
 
                 <div className="flex-column">
                     <p>Til kirken er det mulig å ta trikk 19 og 13 til Sæter, med ca. 10 min. gange til kirken.</p>
@@ -94,6 +94,10 @@ export default function Info() {
 
                 <div className="flex-column">
                     <p>Fra kirken vil gjestene bli fraktet med buss til festlokalet, den vil forlate kirken klokken 15:30. </p>
+                </div>
+
+                <div className="flex-column">
+                    <p>Nærmeste mulighet for kollektivtransport fra festlokalet Frognerseteren T-bane, ca. 10 min gange.</p>
                 </div>
             </div>
 
