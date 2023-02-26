@@ -69,6 +69,9 @@ export default function Info() {
                         <p>
                             Holmenkollveien 204, 0784 Oslo
                         </p>
+                        <p style={{"margin-top": "1em"}}>
+                            Dersom du har noen matallergier, gi oss beskjed på melding.
+                        </p>
                     </div>
                     <div className="flex-column">
                     <iframe
@@ -80,6 +83,10 @@ export default function Info() {
                 </div>
 
             </div>
+
+
+
+
             <div className="flex-column">
                 <h3>Reiseinformasjon</h3>
             </div>
@@ -88,7 +95,7 @@ export default function Info() {
             <div className="main-column-3">
 
                 <div className="flex-column">
-                    <p>Til kirken er det mulig å ta trikk 19 og 13 til Sæter, med ca. 10 min. gange til kirken.</p>
+                    <p>Til kirken er det mulig å ta trikk 19 og 13 til Sæter, med 5 til 10 min. gange til kirken.</p>
 
                 </div>
 
@@ -97,10 +104,9 @@ export default function Info() {
                 </div>
 
                 <div className="flex-column">
-                    <p>Nærmeste mulighet for kollektivtransport fra festlokalet Frognerseteren T-bane, ca. 10 min gange.</p>
+                    <p>Nærmeste mulighet for kollektivtransport fra festlokalet Frognerseteren T-bane, 5 til 10 min gange.</p>
                 </div>
             </div>
-
 
         </>
     )
