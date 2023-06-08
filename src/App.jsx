@@ -42,6 +42,9 @@ function App() {
           <div className="flex-column">
               <Typography variant="h6">Gaveliste fra Tilbords</Typography>
               <Typography> <Link href="https://www.tilbords.no/bryllup/vis-liste/105283">Link her</Link></Typography>
+              <Typography>Pengegave er også mulig</Typography>
+              <Typography>Ved pengegave kan dette settes inn på kontonummer 1210 24 83179</Typography>
+
           </div>
           <Divider />
           <Info />
